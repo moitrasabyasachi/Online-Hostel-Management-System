@@ -1,3 +1,3 @@
 # Online-Hostel-Management-System
-## Platform: PHP, MySQL
+## Technologies used: Bootstrap, JavaScript, PHP, MySQL
 <img src="ohms.png">
